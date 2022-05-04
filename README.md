@@ -7,4 +7,3 @@ Here are some ideas to get you started:
 - 📫 @annalu.ndo on Instagram
 - 😄 Pronouns: she/her
 - ⚡ improving
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
