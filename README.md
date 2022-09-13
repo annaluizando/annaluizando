@@ -1,5 +1,5 @@
 
 - 🔭 studying
-- 📫 @annalu.ndo on Instagram
+- 📫 linkedin.com/in/annaluizando/
 - 😄 Pronouns: she/her
 - ⚡ improving
