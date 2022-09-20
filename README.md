@@ -10,7 +10,8 @@
 I always liked things related to design world and so i started my jounery in programming (my current focus is Front-End😄). Here you can see some of the technologies that im exploring and projects! 
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annaluizando&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annaluizando&show_icons=true&theme=dark)
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaluizando&layout=compact&langs_count=7&theme=dark"/>
 
 
 
