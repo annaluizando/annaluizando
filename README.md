@@ -2,8 +2,8 @@
 
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats-fawn-gamma.vercel.app/api?username=m4rven&show_icons=true&theme=dark)
-<img height="195em" src="https://github-readme-stats-fawn-gamma.vercel.app/api/top-langs/?username=m4rven&layout=compact&theme=dark"/>
+![Anurag's GitHub stats](https://github-readme-stats-fawn-gamma.vercel.app/api?username=annaluizando&show_icons=true&theme=dark)
+<img height="195em" src="https://github-readme-stats-fawn-gamma.vercel.app/api/top-langs/?username=annaluizando&layout=compact&theme=dark"/>
 
 
 
