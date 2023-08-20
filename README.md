@@ -11,8 +11,9 @@
 <br/>
 
 <div align="center">
-  <img height="195em" width="490em" src="https://github-readme-stats-fawn-gamma.vercel.app/api?username=annaluizando&show_icons=true&theme=dark"/>
-  <img height="195em" width="413em" src="https://github-readme-stats-fawn-gamma.vercel.app/api/top-langs/?username=annaluizando&layout=compact&langs_count=6&theme=dark"/>
+
+<a href="https://github.com/annaluizando/github-readme-stats"><img align="center" src="https://github-readme-stats-fawn-gamma.vercel.app/api?username=annaluizando&show_icons=true&theme=dark&hide_border=true" alt="Anna's github stats" /></a> <a href="https://github.com/annaluizando/github-readme-stats"><img align="center" src="https://github-readme-stats-fawn-gamma.vercel.app/api/top-langs/?username=annaluizando&layout=compact&langs_count=6&theme=dark&hide_border=true" /></a>
+
 </div>
 
 <div align="center">
