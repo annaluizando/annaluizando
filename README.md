@@ -1,22 +1,29 @@
-### Welcome, i'm Anna 🦆
+## Welcome, i'm Anna 🦆
 
-<br><br>
+**About me:**
+
+- 🛰️ i work mostly with frontend and design
+
+- 👾 tech enthusiast
+
+- 🦜 I started in the world of design at about 11 years old, even doing volunteer work as a way to practice and increase my knowledge in Photoshop CS6, then, in early 2022 I started my journey in the world of programming by enrolling at higher education course in Systems Analysis and Development, acquiring in this journey knowledge of IT fundamentals, like programming logic, hardware knowledge, Python, HTML&CSS, Javascript, React, Figma, which openned for me the doors of programming world.
+
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats-fawn-gamma.vercel.app/api?username=annaluizando&show_icons=true&theme=dark)
-<img height="195em" src="https://github-readme-stats-fawn-gamma.vercel.app/api/top-langs/?username=annaluizando&layout=compact&theme=dark"/>
+<img height="195em" src="https://github-readme-stats-fawn-gamma.vercel.app/api/top-langs/?username=annaluizando&layout=compact&langs_count=6&theme=dark"/>
+
+<div align="center">
+  
+### Technologies that i use the most
+<hr/>
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vite,styledcomponents,tailwind,git,vercel,figma,photoshop)
 
 
+### Known 
+<hr/>
 
-### Technologies that i'm using and studying:
+![Known](https://skillicons.dev/icons?i=c,java,py,mysql,php,linux,bash,materialui,sass)
 
-
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![STYLED COMPONETS](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-
-
+</div>
