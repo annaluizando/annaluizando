@@ -1,4 +1,4 @@
-## Welcome, i'm Anna 🦆
+## 🦆 Welcome
 
 **— About me —**
 
@@ -18,12 +18,12 @@
 ### Technologies that i use the most
 <hr/>
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vite,styledcomponents,tailwind,git,vercel,figma,photoshop)
+![My Skills](https://skillicons.dev/icons?i=js,ts,next,expressjs,linux,bash,git,postman,go,figma)
 
 
 ### Known 
 <hr/>
 
-![Known](https://skillicons.dev/icons?i=c,java,py,mysql,php,linux,bash,materialui,sass)
+![Known](https://skillicons.dev/icons?i=java,py,mongodb,angular,react,materialui,tailwind,sass,styledcomponents,vercel)
 
 </div>
