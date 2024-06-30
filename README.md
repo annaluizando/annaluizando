@@ -18,12 +18,12 @@
 ### Technologies that i use the most
 <hr/>
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,next,expressjs,linux,bash,git,postman,go,figma)
+![My Skills](https://skillicons.dev/icons?i=js,ts,go,next,expressjs,linux,bash,git,postman,figma)
 
 
 ### Known 
 <hr/>
 
-![Known](https://skillicons.dev/icons?i=java,py,mongodb,angular,react,materialui,tailwind,sass,styledcomponents,vercel)
+![Known](https://skillicons.dev/icons?i=java,py,mongodb,angular,svelte,react,materialui,tailwind,styledcomponents,vercel)
 
 </div>
