@@ -10,7 +10,7 @@
 </div>
   I'm a Software Engineer / Full-Stack Developer with 2+ years of experience in coding and this is my personal account to share some codes and projects that i've made/i'm making :D. 
   <br/>
-  I started in IT doing Front-End, programming Node-related technologies and, then, exploring other fields and possibilities, which is the case until now.
+  I started in IT doing Front-End, programming with Node-related technologies and, then, exploring other fields and possibilities, which is the case until now.
   <br/>
 <p>
   - 🦎 I'm currently working as a Junior Software Engineer.
