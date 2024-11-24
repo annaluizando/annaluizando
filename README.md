@@ -13,7 +13,7 @@
   I started in IT doing Front-End, programming with Node-related technologies and, then, exploring other fields and possibilities, which is the case until now.
   <br/>
 <p>
-  - 🦎 I'm currently working as a Junior Software Engineer.
+  - 🦎 I'm currently working as Software Engineer.
   <br/>
   - 🪼 I'm currently improving my skills with Golang.
   <br/>
