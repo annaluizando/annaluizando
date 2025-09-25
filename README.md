@@ -8,7 +8,7 @@
 <div align="center">
   <img align="right" src="https://64.media.tumblr.com/2b0ec5e7d4763b0cc6aaba6982be379c/tumblr_inline_p46bi1Mmeq1qzc0ri_500.gifv" alt="1041uuu's art" />
 </div>
-  I'm a Software Engineer / Full-Stack Developer with 2+ years of experience in coding and this is my personal account to share some codes and projects that i've made/i'm making :D. 
+  I'm a Software Engineer / Full-Stack Developer with 3+ years of experience in coding and this is my personal account to share some codes and projects that i've made/i'm making :D. 
   <br/>
   I started in IT doing Front-End, programming with Node-related technologies and, then, exploring other fields and possibilities, which is the case until now.
   <br/>
